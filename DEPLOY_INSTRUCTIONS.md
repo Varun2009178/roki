@@ -25,7 +25,7 @@ git push -u origin main
 2. Click **Settings** → **Environment Variables**
 3. Add new variable:
    - **Name**: `OPENROUTER_API_KEY`
-   - **Value**: `sk-or-v1-your-actual-key-here` (get from openrouter.ai/keys)
+   - **Value**: Your actual OpenRouter API key (get from openrouter.ai/keys)
 4. Click **Save**
 5. Go to **Deployments** tab
 6. Click the **3 dots** on latest deployment → **Redeploy**

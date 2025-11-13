@@ -22,7 +22,7 @@ Backend API for the róki iOS app.
 3. **Add Environment Variable**
    - In Vercel dashboard, go to your project
    - Settings → Environment Variables
-   - Add: `OPENROUTER_API_KEY` = `sk-or-v1-your-key-here`
+   - Add: `OPENROUTER_API_KEY` = `your-actual-api-key-here`
    - Redeploy
 
 4. **Get Your Backend URL**
